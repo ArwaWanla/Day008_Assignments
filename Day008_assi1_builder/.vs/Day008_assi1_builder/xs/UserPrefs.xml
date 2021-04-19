@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1AB77A74-E90B-4E09-86E5-25F65F189C72}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day008_assi1_builder/Program.cs">
+    <Files>
+      <File FileName="Day008_assi1_builder/Program.cs" Line="38" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day008_assi1_builder" expanded="True">
+            <Node name="Day008_assi1_builder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Day008__assi1__builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

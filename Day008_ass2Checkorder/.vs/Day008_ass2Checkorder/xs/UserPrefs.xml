@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FBEEB0F7-E57F-4CC7-9BE4-155925A14D68}|Default">
+  <MonoDevelop.Ide.ItemProperties.Day008__ass2Checkorder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day008_ass2Checkorder/Program.cs">
+    <Files>
+      <File FileName="Day008_ass2Checkorder/Program.cs" Line="52" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day008_ass2Checkorder" expanded="True">
+            <Node name="Day008_ass2Checkorder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

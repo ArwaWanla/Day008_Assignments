@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/bin/Debug/netcoreapp3.1/Day008_ass2Checkorder.deps.json
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/bin/Debug/netcoreapp3.1/Day008_ass2Checkorder.runtimeconfig.json
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/bin/Debug/netcoreapp3.1/Day008_ass2Checkorder.runtimeconfig.dev.json
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/bin/Debug/netcoreapp3.1/Day008_ass2Checkorder.dll
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/bin/Debug/netcoreapp3.1/Day008_ass2Checkorder.pdb
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.csprojAssemblyReference.cache
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.AssemblyInfo.cs
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.dll
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.pdb
+/Users/arwawanla/Projects/Day008_ass2Checkorder/Day008_ass2Checkorder/obj/Debug/netcoreapp3.1/Day008_ass2Checkorder.genruntimeconfig.cache

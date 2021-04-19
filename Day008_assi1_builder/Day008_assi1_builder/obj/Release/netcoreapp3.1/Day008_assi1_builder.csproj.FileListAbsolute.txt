@@ -1,0 +1,12 @@
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/bin/Release/netcoreapp3.1/Day008_assi1_builder.deps.json
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/bin/Release/netcoreapp3.1/Day008_assi1_builder.runtimeconfig.json
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/bin/Release/netcoreapp3.1/Day008_assi1_builder.runtimeconfig.dev.json
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/bin/Release/netcoreapp3.1/Day008_assi1_builder.dll
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/bin/Release/netcoreapp3.1/Day008_assi1_builder.pdb
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.AssemblyInfoInputs.cache
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.AssemblyInfo.cs
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.csproj.CoreCompileInputs.cache
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.dll
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.pdb
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.genruntimeconfig.cache
+/Users/arwawanla/Projects/Day008_assi1_builder/Day008_assi1_builder/obj/Release/netcoreapp3.1/Day008_assi1_builder.csprojAssemblyReference.cache
